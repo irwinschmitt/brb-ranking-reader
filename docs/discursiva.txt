@@ -1,4 +1,7 @@
 > ABRIR 04/09/2024 - Resultado preliminar da prova discursiva.
+    OU 25/09/2024 - Resultado final da prova discursiva após recurso.
+    !!Não conferi se o código funciona pro segundo documento corretamente.
+
 > CTRL + A Selecionar tudo
 > CTRL + C Copiar
 > CTRL + V Copiar nesse arquivo
